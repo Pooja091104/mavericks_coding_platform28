@@ -1,0 +1,39 @@
+.cs-message-input {
+  background-color: #fff !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 0.5rem !important;
+}
+
+.cs-message-input__content-editor {
+  background-color: transparent !important;
+}
+
+.cs-message-input__content-editor-wrapper {
+  background-color: transparent !important;
+  padding: 0.5rem !important;
+}
+
+.cs-message {
+  padding: 0.75rem !important;
+}
+
+.cs-message__content {
+  background-color: #f3f4f6 !important;
+  border-radius: 0.5rem !important;
+  padding: 0.75rem !important;
+}
+
+.cs-message--outgoing .cs-message__content {
+  background-color: #3b82f6 !important;
+  color: white !important;
+}
+
+.cs-chat-container {
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 0.5rem !important;
+}
+
+.cs-message-list {
+  background-color: #fff !important;
+  padding: 1rem !important;
+}
